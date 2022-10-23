@@ -55,10 +55,6 @@ main {
     cursor: pointer;
 }
 
-.answer:hover {
-    border: 1px solid green;
-}
-
 .correct {
     background-color: greenyellow;
 }

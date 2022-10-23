@@ -105,7 +105,7 @@ function finishGame() {
     main.innerHTML = "Done! Well played!";
 
     setTimeout(() => {
-        main.innerHTML += "<br />Happy birthday bro!";
+        main.innerHTML += "<br /><span style='font-weight: bold; font-size: 18pt;'>Happy birthday bro!</span>";
     }, 2 * 1000);
 }
 
